@@ -1,0 +1,77 @@
+Historico de comandos 
+  
+  254  git config list
+  255  git config --list
+  256  git clone git@github.com:jcoramos/dslist.git
+  257  ssh-keygen -t ed25519 -C "jcoramos@gmail.com"
+  258  git clone git@github.com:jcoramos/dslist.git
+  259  ls
+  260  git init
+  261  git add .
+  262  git status
+  263  git commit -m "Criadas index e vendas"
+  264  git status
+  265  git branch -M main
+  266  git status
+  267  git remote add origin git@github.com:jcoramos/aulagithub.git
+  268  git push -u origin main
+  269  git status
+  270  git add .
+  271  git status
+  272  git commit -m "Acrescentado valor das vendas."
+  273  git push
+  274  git git@github.com:jcoramos/aulagithub.git
+  275  git clone git@github.com:jcoramos/aulagithub.git
+  276  cd aulagithub/
+  277  git status
+  278  git add .
+  279  git commit -m "Criada página de blog"
+  280  git log
+  281  cls
+  282  clear
+  283  git log
+  284  git status
+  285  git add .
+  286  git commit -m "Update blog"
+  287  git log
+  288  git status
+  289  git push
+  290  clear
+  291  git log
+  292  cleanr
+  293  clear
+  294  git log --oneline
+  295  clear
+  296  git status
+  297  git status
+  298  git add .
+  299  git status
+  300  git reset
+  301  git status
+  302  git status
+  303  git add .
+  304  git status
+  305  git reset
+  306  git status
+  307  clear
+  308  git status
+  309  git add sobre.html
+  310  git status
+  311  git commit -m "Adicionado arquivo sobre.html"
+  312  git status
+  313  git status
+  314  git reset
+  315  git status
+  316  git add sobre.html
+  317  git status
+  318  git commit -m "Momdificado arquivo sobre.html"
+  319  clear
+  320  git add .
+  321  git status
+  322  git commit -m "Deletado arquivo blog e modificado arquivo vendas/."
+  323  git status
+  324  git push
+  325  git log --oneline
+  326  clear
+  327  git diff vendas.html
+  328  history
